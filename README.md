@@ -9,7 +9,7 @@
 ##  Project Overview
 
 This repository contains supporting material for the AJIF-funded project  
-**“Conversion of CO$_2$ into Methanol via an Innovative Photocatalytic and Electrocatalytic Process for Sustainable Energy Applications.”**  
+**“Conversion of CO₂ into Methanol via an Innovative Photocatalytic and Electrocatalytic Process for Sustainable Energy Applications.”**  
 
 The project combines **computational screening** and **experimental synthesis** of hybrid two-dimensional (2D) materials designed to catalyse the hydrogenation of CO₂ to methanol under sustainable conditions.  
 Our goal is to link theoretical electronic descriptors with experimentally verified catalytic performance.
