@@ -1,0 +1,42 @@
+{
+  "CuO_COOH": {
+    "energy": -469.38812255859375,
+    "converged": true
+  },
+  "CuO_CO": {
+    "energy": -458.2393493652344,
+    "converged": true
+  },
+  "CuO_CHO": {
+    "energy": -461.67010498046875,
+    "converged": true
+  },
+  "CuO_CH2O": {
+    "energy": -465.4341735839844,
+    "converged": true
+  },
+  "CuO_CH3O": {
+    "energy": -468.4931640625,
+    "converged": true
+  },
+  "AgO_COOH": {
+    "energy": -436.4197082519531,
+    "converged": true
+  },
+  "AgO_CO": {
+    "energy": -425.2804870605469,
+    "converged": true
+  },
+  "AgO_CHO": {
+    "energy": -428.7170104980469,
+    "converged": true
+  },
+  "AgO_CH2O": {
+    "energy": -432.72027587890625,
+    "converged": true
+  },
+  "AgO_CH3O": {
+    "energy": -435.6029052734375,
+    "converged": true
+  }
+}
